@@ -11,16 +11,7 @@
   
   <br><br>
   
-  <!-- BADGES SOCIALES ANIMADOS -->
-  <a href="https://github.com/epuertasa?tab=followers">
-    <img src="https://img.shields.io/github/followers/epuertasa?label=Followers&logo=github&style=for-the-badge&color=0d1117&labelColor=161b22" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/epuertasa?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-4+-blue?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=epuertasa&color=58a6ff&style=for-the-badge&label=VISITAS+AL+PERFIL" />
+  <br><br>
 
 </div>
 
@@ -214,6 +205,19 @@
   <p align="center">
     <a href="mailto:erikpuertas1008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
+  
+  <br>
+  
+  <!-- BADGES DE MÉTRICAS -->
+  <a href="https://github.com/epuertasa?tab=followers">
+    <img src="https://img.shields.io/github/followers/epuertasa?label=Followers&logo=github&style=for-the-badge&color=0d1117&labelColor=161b22" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/epuertasa?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-4+-blue?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=epuertasa&color=58a6ff&style=for-the-badge&label=VISITAS+AL+PERFIL" />
 </div>
 
 <br>
