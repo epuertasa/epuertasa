@@ -196,9 +196,7 @@
   <br>
 </div>
 
-<!-- FOOTER FINAL VISUAL -->
-<div align="center">
-  <br>
-  <img src="https://media.giphy.com/media/L1R1QHUR4YpGg3S6pW/giphy.gif" width="100%" />
-  <br><br>
-</div>
+
+---
+
+![](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/banner.gif)
