@@ -129,16 +129,16 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚴 CYCLE-IT</h3>
+      <h3 align="center">🌿 CYCLE-IT</h3>
       <div align="center">
         <a href="https://github.com/epuertasa/CYCLE-IT" target="_blank">
           <img src="https://img.shields.io/badge/VER%20REPO-0d1117?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br><br>
-        <p><strong>Plataforma web de ciclismo</strong></p>
-        <p>Aplicación completa con rutas, comunidad y estadísticas para ciclistas.</p>
+        <p><strong>Tecnología Circular y Sostenible</strong></p>
+        <p>Monitorización de huella de carbono y gestión energética en tiempo real.</p>
         <br>
-        <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&theme=dark" />
       </div>
     </td>
     <td width="50%" valign="top">
