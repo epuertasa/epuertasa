@@ -204,50 +204,9 @@
   <br>
 </div>
 
-<!-- FOOTER PROFESIONAL FINAL -->
+<!-- FOOTER FINAL VISUAL (SIN PALABRAS) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=¡Gracias%20por%20pasar!&fontSize=50&animation=twinkling&fontAlignY=50" width="100%" />
-  
-  <br><br>
-  
-  <!-- GIF DE DEVELOPER VIBRANTE -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJkdWdtZnd4Z2R4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpGg3S6pW/giphy.gif" width="500" alt="Vibrant Developer GIF" />
-  
-  <br><br>
-  
-  <!-- BADGES DE MÉTRICAS Y FILOSOFÍA -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Code-Innovate-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Learn-Everyday-10b981?style=for-the-badge&logo=gitbook&logoColor=white" />
-  </p>
-
   <br>
-
-  <!-- BADGES DE ESTADÍSTICAS REUBICADOS -->
-  <a href="https://github.com/epuertasa?tab=followers">
-    <img src="https://img.shields.io/github/followers/epuertasa?label=Followers&logo=github&style=for-the-badge&color=0d1117&labelColor=161b22" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/epuertasa?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-4+-blue?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=epuertasa&color=58a6ff&style=for-the-badge&label=VISITAS+AL+PERFIL" />
-</div>
-
-<br>
-
-<!-- ANIMACIÓN FINAL PROFESIONAL -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=¡Gracias%20por%20pasar!&fontSize=50&animation=twinkling&fontAlignY=50" width="100%" />
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212749444-2453664d-50b5-47cc-ae90-844c8b25828d.gif" width="600" alt="High Quality Developer Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212239351-d365dfba-121b-4873-9584-984414571932.gif" width="100%" alt="Developer Workspace Neon" />
   <br><br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Code-Innovate-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Learn-Everyday-10b981?style=for-the-badge&logo=gitbook&logoColor=white" />
-  </p>
 </div>
-
-<br>
-
