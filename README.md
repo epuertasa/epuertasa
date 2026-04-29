@@ -199,6 +199,6 @@
 <!-- FOOTER FINAL VISUAL (SIN PALABRAS) -->
 <div align="center">
   <br>
-  <img src="https://i.giphy.com/L1R1QHUR4YpGg3S6pW.gif" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/212239351-d365dfba-121b-4873-9584-984414571932.gif" width="100%" />
   <br><br>
 </div>
