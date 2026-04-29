@@ -97,36 +97,17 @@
 
 <br>
 
-<!-- SECCIÓN DE PROGRESO MODERNA -->
+<!-- SECCIÓN DE PROGRESO MODERNA (DINÁMICA) -->
 <h2 align="center">📈 Mi Camino de Aprendizaje 📈</h2>
 
 <div align="center">
-  <table width="80%">
-    <tr>
-      <td><strong>Frontend (React / TS)</strong></td>
-      <td width="70%">
-        <img src="https://img.shields.io/badge/-70%25-58a6ff?style=flat&logo=react" width="70%" height="20px" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Backend (Python / FastAPI)</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-55%25-10b981?style=flat&logo=python" width="55%" height="20px" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Sistemas y Redes (SMR)</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-85%25-f59e0b?style=flat&logo=linux" width="85%" height="20px" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Base de Datos (SQL)</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-40%25-ef4444?style=flat&logo=postgresql" width="40%" height="20px" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://geps.dev/progress/75?text=FRONTEND%20(React/TS)&color=58a6ff&width=300" />
+  &nbsp;&nbsp;
+  <img src="https://geps.dev/progress/60?text=BACKEND%20(Python/FastAPI)&color=10b981&width=300" />
+  <br><br>
+  <img src="https://geps.dev/progress/85?text=SMR%20(Sistemas/Redes)&color=f59e0b&width=300" />
+  &nbsp;&nbsp;
+  <img src="https://geps.dev/progress/45?text=DATABASES%20(SQL/NoSQL)&color=ef4444&width=300" />
 </div>
 
 <br>
