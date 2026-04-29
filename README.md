@@ -42,24 +42,24 @@
 <br>
 
 <!-- TECH STACK EN TABLA -->
-<h2 align="center">⚡ Mi Stack Tecnológico ⚡</h2>
+<h2 align="center">Mi Stack Tecnológico</h2>
 
 <div align="center">
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="30%"><strong>🌐 Frontend</strong></td>
+    <td align="center" width="30%"><strong>Frontend</strong></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,bootstrap&perline=8&theme=dark" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>⚙️ Backend & Herramientas</strong></td>
+    <td align="center"><strong>Backend & Herramientas</strong></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,git,github,vscode,linux&perline=8&theme=dark" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>🚀 Aprendiendo</strong></td>
+    <td align="center"><strong>Aprendiendo</strong></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,figma&perline=8&theme=dark" />
     </td>
