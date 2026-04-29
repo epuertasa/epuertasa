@@ -110,11 +110,97 @@
 
 <br>
 
+<!-- TROFEOS -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=epuertasa&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+</div>
+
+<br>
+
 <!-- SEPARADOR ANIMADO -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
+<!-- PROYECTOS DESTACADOS -->
+<h2 align="center">🏆 Mis Proyectos 🏆</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌿 CYCLE-IT</h3>
+      <div align="center">
+        <a href="https://github.com/epuertasa/CYCLE-IT" target="_blank">
+          <img src="https://img.shields.io/badge/VER%20REPO-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <p><strong>Tecnología Circular y Sostenible</strong></p>
+        <p>Monitorización de huella de carbono y gestión energética en tiempo real.</p>
+        <br>
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&theme=dark" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ Capri Shop</h3>
+      <div align="center">
+        <a href="https://github.com/epuertasa/capri-shop" target="_blank">
+          <img src="https://img.shields.io/badge/VER%20REPO-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <p><strong>Tienda online de moda</strong></p>
+        <p>E-commerce con carrito dinámico, filtros y diseño responsivo.</p>
+        <br>
+        <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🖥️ Diseño Web SMR</h3>
+      <div align="center">
+        <a href="https://github.com/epuertasa/diseno-web-smr" target="_blank">
+          <img src="https://img.shields.io/badge/VER%20REPO-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <p><strong>Prácticas de diseño web</strong></p>
+        <p>Portfolio de ejercicios: Flexbox, Grid, animaciones CSS y responsive.</p>
+        <br>
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎯 QuoteXA</h3>
+      <div align="center">
+        <a href="https://github.com/epuertasa/quotexa-odds-engine" target="_blank">
+          <img src="https://img.shields.io/badge/VER%20REPO-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <p><strong>Motor de análisis de cuotas</strong></p>
+        <p>Análisis de cuotas deportivas en tiempo real con FastAPI + Streamlit.</p>
+        <br>
+        <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" />
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<!-- SEPARADOR ANIMADO -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <h3>🐍 Mi actividad en GitHub 🐍</h3>
+  <br>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br>
 
 <!-- FOOTER ANIMADO -->
 <div align="center">
