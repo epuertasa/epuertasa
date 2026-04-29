@@ -196,9 +196,9 @@
   <br>
 </div>
 
-<!-- FOOTER FINAL VISUAL (SIN PALABRAS) -->
+<!-- FOOTER FINAL VISUAL (ULTRA-ESTABLE) -->
 <div align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212239351-d365dfba-121b-4873-9584-984414571932.gif" width="100%" />
+  ![](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/banner.gif?v=1)
   <br><br>
 </div>
