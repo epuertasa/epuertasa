@@ -95,22 +95,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=epuertasa&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true" width="95%" />
 </div>
 
-<br>
-
-<!-- SECCIÓN DE PROGRESO MODERNA (DINÁMICA) -->
-<h2 align="center">📈 Mi Camino de Aprendizaje 📈</h2>
-
-<div align="center">
-  <img src="https://geps.dev/progress/75?text=FRONTEND%20(React/TS)&color=58a6ff&width=300" />
-  &nbsp;&nbsp;
-  <img src="https://geps.dev/progress/60?text=BACKEND%20(Python/FastAPI)&color=10b981&width=300" />
-  <br><br>
-  <img src="https://geps.dev/progress/85?text=SMR%20(Sistemas/Redes)&color=f59e0b&width=300" />
-  &nbsp;&nbsp;
-  <img src="https://geps.dev/progress/45?text=DATABASES%20(SQL/NoSQL)&color=ef4444&width=300" />
-</div>
-
-<br>
 
 <!-- SEPARADOR ANIMADO -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
