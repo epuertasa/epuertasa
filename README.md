@@ -203,16 +203,34 @@
 
 <br>
 
-<!-- FOOTER ANIMADO -->
+<!-- SEPARADOR ANIMADO -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- CONNECT WITH ME -->
 <div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!&fontSize=40&animation=fadeIn&fontAlignY=50" width="100%" />
-  <br><br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJkdWdtZnd4Z2R4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpGg3S6pW/giphy.gif" width="300" />
-  <br><br>
+  <h2 align="center">🤝 ¡Conectemos! 🤝</h2>
   <p align="center">
-    <img src="https://img.shields.io/badge/Hecho%20con%20❤️%20por-Erik%20Puertas-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+    <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://twitter.com/tu-usuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=150&section=footer" width="100%" />
+<br>
+
+<!-- ANIMACIÓN FINAL PROFESIONAL -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=¡Gracias%20por%20pasar!&fontSize=50&animation=twinkling&fontAlignY=50" width="100%" />
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJueWpsbmJueWpsbmJueWpsbmJueWpsbmJueWpsbmJueWpsJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoRz_use3LU7mKglM/giphy.gif" width="400" alt="Developer Animation" />
+  <br><br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Code-Innovate-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Learn-Everyday-10b981?style=for-the-badge&logo=gitbook&logoColor=white" />
+  </p>
+</div>
+
+<br>
+
