@@ -60,7 +60,7 @@
   <h3>🌐 Frontend — Lo que manejo</h3>
   <br>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap&theme=dark" alt="Frontend Skills" />
   </a>
   <br><br>
   
@@ -74,7 +74,7 @@
   <h3>🚀 Aprendiendo próximamente</h3>
   <br>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,docker,postgres,figma,typescript&theme=dark" alt="Learning Next" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,docker,postgres,figma&theme=dark" alt="Learning Next" />
   </a>
 </div>
 
