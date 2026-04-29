@@ -55,29 +55,30 @@
 
 <br>
 
-<!-- TECH STACK CON ICONOS ANIMADOS -->
-<h2 align="center">⚡ Tech Stack ⚡</h2>
+<!-- TECH STACK EN TABLA -->
+<h2 align="center">⚡ Mi Stack Tecnológico ⚡</h2>
 
 <div align="center">
-  <h3>🌐 Frontend — Lo que manejo</h3>
-  <br>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,bootstrap&theme=dark" alt="Frontend Skills" />
-  </a>
-  <br><br>
-  
-  <h3>⚙️ Backend & Herramientas</h3>
-  <br>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,git,github,vscode,linux&theme=dark" alt="Backend & Tools" />
-  </a>
-  <br><br>
-  
-  <h3>🚀 Aprendiendo próximamente</h3>
-  <br>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,figma&theme=dark" alt="Learning Next" />
-  </a>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>🌐 Frontend</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,bootstrap&perline=4&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>⚙️ Backend & Herramientas</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,git,github,vscode,linux&perline=4&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🚀 Aprendiendo</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,figma&perline=4&theme=dark" />
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
