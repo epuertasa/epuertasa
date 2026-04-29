@@ -196,7 +196,13 @@
   <br>
 </div>
 
-
----
-
-![](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/banner.gif)
+<!-- FOOTER CYBERPUNK PROFESIONAL -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=¡Gracias%20por%20visitarme!%20🚀&fontSize=50&animation=twinkling&fontAlignY=50" width="100%" />
+  
+  <br>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212239351-d365dfba-121b-4873-9584-984414571932.gif" width="100%" alt="Cyberpunk Animation" />
+  
+  <br><br>
+</div>
