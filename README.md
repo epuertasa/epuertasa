@@ -1,12 +1,12 @@
 <div align="center">
   
   <!-- HEADER ANIMADO -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:0d1117&height=300&section=header&text=Erik%20Puertas&fontSize=80&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=🚀%20Junior%20Developer%20|%20Siempre%20Aprendiendo&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:0d1117&height=300&section=header&text=Erik%20Puertas&fontSize=80&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=Junior%20Developer%20|%20Siempre%20Aprendiendo&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
 
   <!-- TYPING ANIMATION -->
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=1500&pause=300&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=130&lines=%F0%9F%92%BB+Junior+Developer+%7C+Siempre+Aprendiendo;;%F0%9F%9A%80+Transformando+ideas+en+proyectos+reales" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=1500&pause=300&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=130&lines=Junior+Developer+%7C+Siempre+Aprendiendo;;Transformando+ideas+en+proyectos+reales" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,7 +22,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-### &nbsp; 🧑‍💻 &nbsp; Sobre Mí
+### Sobre Mí
 
 &nbsp;&nbsp;&nbsp; 🎓 &nbsp; Estudiante de **Sistemas Microinformáticos y Redes (SMR)**\
 &nbsp;&nbsp;&nbsp; 🌱 &nbsp; Actualmente aprendiendo **HTML, CSS, JavaScript y Python**\
@@ -74,7 +74,7 @@
 <br>
 
 <!-- GITHUB STATS DETALLADAS -->
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=epuertasa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
@@ -101,13 +101,13 @@
 <br>
 
 <!-- PROYECTOS DESTACADOS -->
-<h2 align="center">🏆 Mis Proyectos 🏆</h2>
+<h2 align="center">Mis Proyectos</h2>
 
 <div align="center">
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌿 CYCLE-IT</h3>
+      <h3 align="center">CYCLE-IT</h3>
       <div align="center">
         <a href="https://github.com/epuertasa/CYCLE-IT" target="_blank">
           <img src="https://img.shields.io/badge/VER%20REPO-0d1117?style=for-the-badge&logo=github&logoColor=white" />
@@ -120,7 +120,7 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛍️ Capri Shop</h3>
+      <h3 align="center">Capri Shop</h3>
       <div align="center">
         <a href="https://github.com/epuertasa/capri-shop" target="_blank">
           <img src="https://img.shields.io/badge/VER%20REPO-0d1117?style=for-the-badge&logo=github&logoColor=white" />
@@ -135,7 +135,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🖥️ Diseño Web SMR</h3>
+      <h3 align="center">Diseño Web SMR</h3>
       <div align="center">
         <a href="https://github.com/epuertasa/diseno-web-smr" target="_blank">
           <img src="https://img.shields.io/badge/VER%20REPO-0d1117?style=for-the-badge&logo=github&logoColor=white" />
@@ -148,7 +148,7 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 QuoteXA</h3>
+      <h3 align="center">QuoteXA</h3>
       <div align="center">
         <a href="https://github.com/epuertasa/quotexa-odds-engine" target="_blank">
           <img src="https://img.shields.io/badge/VER%20REPO-0d1117?style=for-the-badge&logo=github&logoColor=white" />
@@ -173,7 +173,7 @@
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
-  <h3>🐍 Mi actividad en GitHub 🐍</h3>
+  <h3 align="center">Mi actividad en GitHub</h3>
   <br>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
@@ -187,7 +187,7 @@
 
 <!-- CONNECT WITH ME -->
 <div align="center">
-  <h2 align="center">🤝 ¡Conectemos! 🤝</h2>
+  <h2 align="center">¡Conectemos!</h2>
   <p align="center">
     <a href="mailto:erikpuertas1008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
