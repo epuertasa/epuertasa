@@ -62,21 +62,21 @@
   <h3>🌐 Frontend — Lo que manejo</h3>
   <br>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap&theme=dark" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,bootstrap&theme=dark" alt="Frontend Skills" />
   </a>
   <br><br>
   
   <h3>⚙️ Backend & Herramientas</h3>
   <br>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,git,github,vscode,linux&theme=dark" alt="Backend & Tools" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,git,github,vscode,linux&theme=dark" alt="Backend & Tools" />
   </a>
   <br><br>
   
   <h3>🚀 Aprendiendo próximamente</h3>
   <br>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,docker,postgres,figma&theme=dark" alt="Learning Next" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,figma&theme=dark" alt="Learning Next" />
   </a>
 </div>
 
