@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- HEADER ANIMADO -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:0d1117&height=300&section=header&text=Erik%20Puertas&fontSize=80&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=%20Junior%20Developer%20|%20Siempre%20Aprendiendo&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:0d1117&height=300&section=header&text=Erik%20Puertas&fontSize=80&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=🚀%20Junior%20Developer%20|%20Siempre%20Aprendiendo&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
 
   <!-- TYPING ANIMATION -->
   <br>
@@ -47,19 +47,19 @@
 <div align="center">
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="30%"><strong> Frontend</strong></td>
+    <td align="center" width="30%"><strong>🌐 Frontend</strong></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,bootstrap&perline=8&theme=dark" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong> Backend & Herramientas</strong></td>
+    <td align="center"><strong>⚙️ Backend & Herramientas</strong></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,git,github,vscode,linux&perline=8&theme=dark" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong> Aprendiendo</strong></td>
+    <td align="center"><strong>🚀 Aprendiendo</strong></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,figma&perline=8&theme=dark" />
     </td>
@@ -221,7 +221,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=¡Gracias%20por%20pasar!&fontSize=50&animation=twinkling&fontAlignY=50" width="100%" />
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJueWpsbmJueWpsbmJueWpsbmJueWpsbmJueWpsbmJueWpsJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoRz_use3LU7mKglM/giphy.gif" width="400" alt="Developer Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749444-2453664d-50b5-47cc-ae90-844c8b25828d.gif" width="600" alt="High Quality Developer Animation" />
   <br><br>
   <p align="center">
     <img src="https://img.shields.io/badge/Code-Innovate-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
