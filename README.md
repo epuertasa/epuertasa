@@ -202,13 +202,16 @@
 
 <br>
 
-<!-- FOOTER -->
+<!-- FOOTER ANIMADO -->
 <div align="center">
   <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!&fontSize=40&animation=fadeIn&fontAlignY=50" width="100%" />
   <br><br>
-  <i>🔥 "No necesito ser el mejor, solo necesito ser mejor que ayer." 🔥</i>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJkdWdtZnd4Z2R4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpGg3S6pW/giphy.gif" width="300" />
   <br><br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Hecho%20con%20❤️%20por-Erik%20Puertas-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=150&section=footer" width="100%" />
