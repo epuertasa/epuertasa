@@ -207,6 +207,6 @@
 <!-- FOOTER FINAL VISUAL (SIN PALABRAS) -->
 <div align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212239351-d365dfba-121b-4873-9584-984414571932.gif" width="100%" alt="Developer Workspace Neon" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR1Z21md3hnZHhmd3hmd3hmd3hmd3hmd3hmd3hmd3hmd3hmd3hmd3gmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/L1R1QHUR4YpGg3S6pW/giphy.gif" width="600" alt="Developer Workspace Neon" />
   <br><br>
 </div>
