@@ -9,9 +9,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=1500&pause=300&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=130&lines=Junior+Developer+%7C+Siempre+Aprendiendo;;Transformando+ideas+en+proyectos+reales" alt="Typing SVG" />
   </a>
 
-  <!-- LETS CODE GIF -->
+  <!-- PRO CODER GIF - URL ESTABLE SIN EXPIRACIÓN -->
   <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" alt="Coding Vibe" />
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="350" alt="Pro Coder"/>
 </div>
 
 <br>
@@ -31,7 +31,7 @@
 &nbsp;&nbsp;&nbsp; 🎓 &nbsp; Estudiante de **Sistemas Microinformáticos y Redes (SMR)**\
 &nbsp;&nbsp;&nbsp; 🌱 &nbsp; Actualmente aprendiendo **HTML, CSS, JavaScript y Python**\
 &nbsp;&nbsp;&nbsp; 🔨 &nbsp; Construyo proyectos reales para ganar experiencia\
-&nbsp;&nbsp;&nbsp; 💪 &nbsp; Mi filosofía: *"Aprender haciendo, no hay atajos"*\
+&nbsp;&nbsp;&nbsp; 💪 &nbsp; Mi filosofía: _"Aprender haciendo, no hay atajos"_\
 &nbsp;&nbsp;&nbsp; 🏠 &nbsp; Desde **España** 🇪🇸\
 &nbsp;&nbsp;&nbsp; ⚡ &nbsp; Fun fact: Me encanta combinar **tecnología + deporte**
 
@@ -97,7 +97,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=epuertasa&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true" width="95%" />
 </div>
-
 
 <!-- SEPARADOR ANIMADO -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
