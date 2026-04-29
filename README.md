@@ -202,8 +202,28 @@
   </p>
   
   <br>
+</div>
+
+<!-- FOOTER PROFESIONAL FINAL -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=¡Gracias%20por%20pasar!&fontSize=50&animation=twinkling&fontAlignY=50" width="100%" />
   
-  <!-- BADGES DE MÉTRICAS -->
+  <br><br>
+  
+  <!-- GIF DE DEVELOPER VIBRANTE -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJkdWdtZnd4Z2R4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpGg3S6pW/giphy.gif" width="500" alt="Vibrant Developer GIF" />
+  
+  <br><br>
+  
+  <!-- BADGES DE MÉTRICAS Y FILOSOFÍA -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Code-Innovate-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Learn-Everyday-10b981?style=for-the-badge&logo=gitbook&logoColor=white" />
+  </p>
+
+  <br>
+
+  <!-- BADGES DE ESTADÍSTICAS REUBICADOS -->
   <a href="https://github.com/epuertasa?tab=followers">
     <img src="https://img.shields.io/github/followers/epuertasa?label=Followers&logo=github&style=for-the-badge&color=0d1117&labelColor=161b22" />
   </a>
