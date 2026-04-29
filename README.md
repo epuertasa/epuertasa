@@ -97,9 +97,36 @@
 
 <br>
 
-<!-- TROFEOS -->
+<!-- SECCIÓN DE PROGRESO MODERNA -->
+<h2 align="center">📈 Mi Camino de Aprendizaje 📈</h2>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=epuertasa&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+  <table width="80%">
+    <tr>
+      <td><strong>Frontend (React / TS)</strong></td>
+      <td width="70%">
+        <img src="https://img.shields.io/badge/-70%25-58a6ff?style=flat&logo=react" width="70%" height="20px" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Backend (Python / FastAPI)</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-55%25-10b981?style=flat&logo=python" width="55%" height="20px" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sistemas y Redes (SMR)</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-85%25-f59e0b?style=flat&logo=linux" width="85%" height="20px" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Base de Datos (SQL)</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-40%25-ef4444?style=flat&logo=postgresql" width="40%" height="20px" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
