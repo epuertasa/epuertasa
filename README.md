@@ -198,7 +198,7 @@
 
 <!-- FOOTER CYBERPUNK PROFESIONAL -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=¡Gracias%20por%20visitarme!%20🚀&fontSize=50&animation=twinkling&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=¡Gracias%20por%20visitarme!&fontSize=50&animation=twinkling&fontAlignY=50" width="100%" />
   
   <br>
   
