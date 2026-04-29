@@ -9,15 +9,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%92%BB+Junior+Developer+con+hambre+de+aprender;%F0%9F%8C%B1+HTML+%7C+CSS+%7C+JavaScript+%7C+Python;%F0%9F%8E%AF+Buscando+mi+primera+oportunidad+en+tech;%E2%9A%A1+Cada+d%C3%ADa+una+l%C3%ADnea+de+c%C3%B3digo+m%C3%A1s" alt="Typing SVG" />
   </a>
   
-  <br>
+  <br><br>
   
   <!-- BADGES SOCIALES ANIMADOS -->
   <a href="https://github.com/epuertasa?tab=followers">
     <img src="https://img.shields.io/github/followers/epuertasa?label=Followers&logo=github&style=for-the-badge&color=0d1117&labelColor=161b22" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/epuertasa?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-4+-blue?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22" />
   </a>
+  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=epuertasa&color=58a6ff&style=for-the-badge&label=VISITAS+AL+PERFIL" />
 
 </div>
