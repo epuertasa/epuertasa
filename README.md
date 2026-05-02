@@ -11,7 +11,7 @@
 
   <!-- PRO CODER GIF - URL ESTABLE SIN EXPIRACIÓN -->
   <br>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTR0dG5paHR4ZDVsMmJkdDEweXg3czg3cnZ1d2tleGRmbDdzM3hjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="350" alt="Pro Coder"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdmeDY3OGFlMHdsNzA0bXcydHo4d3FpZmZ4eHg0bzk4cXNjN3V2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="350" alt="Pro Coder"/>
 </div>
 
 <br>
