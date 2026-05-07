@@ -150,19 +150,6 @@
         <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
       </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">QuoteXA</h3>
-      <div align="center">
-        <a href="https://github.com/epuertasa/quotexa-odds-engine" target="_blank">
-          <img src="https://img.shields.io/badge/VER%20REPO-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br><br>
-        <p><strong>Motor de análisis de cuotas</strong></p>
-        <p>Análisis de cuotas deportivas en tiempo real con FastAPI + Streamlit.</p>
-        <br>
-        <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" />
-      </div>
-    </td>
   </tr>
 </table>
 </div>
