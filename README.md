@@ -14,7 +14,7 @@
 <!-- PORTFOLIO -->
 <div align="center">
   <a href="https://epuertasa.dev" target="_blank">
-    <img src="https://img.shields.io/badge/MI%20PORTFOLIO-%F0%9F%9A%80%20En%20construcci%C3%B3n-58a6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="Porfolio" width="80%" />
+    <img src="https://img.shields.io/badge/MI%20PORFOLIO-%F0%9F%9A%80%20En%20construcci%C3%B3n-58a6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="Porfolio" width="80%" />
   </a>
 </div>
 
