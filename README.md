@@ -9,11 +9,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=1500&pause=300&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=130&lines=Junior+Developer+%7C+Siempre+Aprendiendo;;Transformando+ideas+en+proyectos+reales" alt="Typing SVG" />
   </a>
 
-  <!-- PRO CODER GIF - URL ESTABLE SIN EXPIRACIÓN -->
-  <br>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdmeDY3OGFlMHdsNzA0bXcydHo4d3FpZmZ4eHg0bzk4cXNjN3V2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="350" alt="Pro Coder"/>
-</div>
-
 <br>
 
 <!-- SEPARADOR ANIMADO -->
