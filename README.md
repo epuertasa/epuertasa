@@ -183,7 +183,7 @@
 <div align="center">
   <h2 align="center">¡Conectemos!</h2>
   <p align="center">
-    <a href="mailto:erikpuertas1008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=erikpuertas1008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
   
   <br>
