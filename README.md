@@ -90,13 +90,6 @@
 
 <br>
 
-<!-- VISITAS AL PERFIL -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=epuertasa&color=58a6ff&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile visits" />
-</div>
-
-<br>
-
 <!-- GRÁFICO DE ACTIVIDAD -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=epuertasa&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true" width="95%" />
@@ -189,4 +182,10 @@
   <br>
 </div>
 
+<br>
+
+<!-- VISITAS AL PERFIL -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=epuertasa&color=58a6ff&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile visits" />
+</div>
 
