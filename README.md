@@ -23,12 +23,14 @@
 
 ### Sobre Mí
 
-&nbsp;&nbsp;&nbsp; 🎓 &nbsp; Estudiante de <strong>Sistemas Microinformáticos y Redes (SMR)</strong><br>
-&nbsp;&nbsp;&nbsp; 🌱 &nbsp; Actualmente aprendiendo <strong>HTML, CSS, JavaScript y Python</strong><br>
-&nbsp;&nbsp;&nbsp; 🔨 &nbsp; Construyo proyectos reales para ganar experiencia<br>
-&nbsp;&nbsp;&nbsp; 💪 &nbsp; Mi filosofía: <em>"Aprender haciendo, no hay atajos"</em><br>
-&nbsp;&nbsp;&nbsp; 🏠 &nbsp; Desde <strong>España</strong><br>
-&nbsp;&nbsp;&nbsp; ⚡ &nbsp; Fun fact: Me encanta combinar <strong>tecnología + deporte</strong>
+<ul style="list-style: none; padding-left: 0;">
+  <li>🎓 &nbsp; Estudiante de <strong>Sistemas Microinformáticos y Redes (SMR)</strong></li>
+  <li>🌱 &nbsp; Actualmente aprendiendo <strong>HTML, CSS, JavaScript y Python</strong></li>
+  <li>🔨 &nbsp; Construyo proyectos reales para ganar experiencia</li>
+  <li>💪 &nbsp; Mi filosofía: <em>"Aprender haciendo, no hay atajos"</em></li>
+  <li>🏠 &nbsp; Desde <strong>España</strong></li>
+  <li>⚡ &nbsp; Fun fact: Me encanta combinar <strong>tecnología + deporte</strong></li>
+</ul>
 
 </div>
 
