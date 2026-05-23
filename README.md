@@ -24,10 +24,15 @@
 ### Sobre Mí
 
 &nbsp;&nbsp;&nbsp; 🎓 &nbsp; Estudiante de **Sistemas Microinformáticos y Redes (SMR)**\
+
 &nbsp;&nbsp;&nbsp; 🌱 &nbsp; Actualmente aprendiendo **HTML, CSS, JavaScript y Python**\
+
 &nbsp;&nbsp;&nbsp; 🔨 &nbsp; Construyo proyectos reales para ganar experiencia\
+
 &nbsp;&nbsp;&nbsp; 💪 &nbsp; Mi filosofía: _"Aprender haciendo, no hay atajos"_\
+
 &nbsp;&nbsp;&nbsp; 🏠 &nbsp; Desde **España**
+
 &nbsp;&nbsp;&nbsp; ⚡ &nbsp; Fun fact: Me encanta combinar **tecnología + deporte**
 
 </div>
