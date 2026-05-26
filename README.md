@@ -14,7 +14,7 @@
 <!-- PORTFOLIO -->
 <div align="center">
   <a href="porfolioepuertasa.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/MI%20PORFOLIO-%F0%9F%9A%80%20-58a6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="Porfolio" width="80%" />
+    <img src="https://img.shields.io/badge/MI%20PORFOLIO" alt="Porfolio" width="80%" />
   </a>
 </div>
 
