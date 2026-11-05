@@ -142,21 +142,6 @@
       </div>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Diseño Web SMR</h3>
-      <div align="center">
-        <a href="https://github.com/epuertasa/diseno-web-smr" target="_blank">
-          <img src="https://img.shields.io/badge/VER%20REPO-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br><br>
-        <p><strong>Prácticas de diseño web</strong></p>
-        <p>Portfolio de ejercicios: Flexbox, Grid, animaciones CSS y responsive.</p>
-        <br>
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
-      </div>
-    </td>
-  </tr>
 </table>
 </div>
 
